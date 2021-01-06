@@ -2,9 +2,6 @@ body{
     margin: 0%;
     font-family: 'Oswald', sans-serif;
 }
-h1{
- 
-}
 .name-highlight{
     color: rgb(179, 41, 6);
 }
@@ -17,15 +14,12 @@ h1{
 .half-width img{
     width: 100%;
     margin-left: 10%;
-    
 }
 .half-width1 img{
     width: 100%;
-    
 }
 .tob-section{
     background-color: plum;
-
 }
 section{
     height: 500px;
@@ -45,10 +39,8 @@ section{
 }
 .half-width1{
     float: left;
-   
     margin-top: 50px;
     padding-left: 5%;
-   
     box-shadow: 10px 10px 40px gray;
     height: 40%;
     width: 25%   
@@ -58,9 +50,4 @@ section{
     box-sizing: border-box;
     height: 100px;
     border-radius: 20px;
-    
-    
-    
-    
-    
 }
